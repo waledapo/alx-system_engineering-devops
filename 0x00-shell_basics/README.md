@@ -1,1 +1,1 @@
-Shell basics
+Script that switches current user
